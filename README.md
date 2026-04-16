@@ -1,8 +1,55 @@
-## Обо мне
-Я аналитик данных, специализируюсь на SQL и Python, работаю с BI-системами. В данный момент нахожусь в статусе активного поиска работы.
+<!-- Header and greeting -->
+# Hi there! I’m Lubov Silyaeva.
 
-Работаю в стеке: Google Sheets, PostgreSQL, Python (pandas, matplotlib, seaborn), Jupyter Notebook, DataLens.
+👋 Data Analyst specializing in SQL and Python, with experience in BI systems. Currently actively seeking remote opportunities.
 
-Ищу удаленную работу в компании, где смогу совершенствовать свои навыки под руководством специалистов высокого уровня.
+<!-- Social badges -->
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/gladlu60v)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:glaglu60v@gmail.com)
 
-Получив опыт в должности С++ разработчика, я со временем осознала интерес к направлениям, где результат работы имеет наглядное представление. Я заинтересовалась созданием дашбордов и анализом данных. Для профессиональной реализации в этой сфере прошла обучение по программе "Аналитик данных" от Яндекс Практикума. Приобретённые ранее навыки программирования помогают мне в освоении аналитических инструментов, позволяют писать структурированный код и оптимизированные SQL‑запросы.
+<!-- Tech stack -->
+## My Tech Stack
+
+- **Databases:** PostgreSQL, SQL
+- **Programming Languages:** Python (pandas, matplotlib, seaborn)
+- **Analysis Tools:** Jupyter Notebook, Google Sheets
+- **BI Systems:** DataLens
+
+<!-- About me -->
+## About Me
+
+I’m a data analyst with a background in software development. I started my career as a C++ developer, which gave me a solid foundation in programming. Over time, I developed a strong interest in fields where work results are visually represented — this led me to explore data dashboard creation and data analysis.
+
+After completing the **“Data Analyst” program at Yandex Practicum**, I combined my programming skills with analytical thinking. This enables me to:
+
+- write clean, structured, and efficient code;
+- create optimized SQL queries;
+- visualize data and build intuitive dashboards;
+- uncover insights from large datasets.
+
+<!-- What I'm looking for -->
+## What I’m Looking For
+
+I’m seeking a remote position at a company where I can:
+
+- further develop my skills under the guidance of experienced professionals;
+- work with real‑world data and solve practical business problems;
+- contribute to creating informative dashboards for data‑driven decision‑making.
+
+<!-- Stats and badges -->
+<div align="center">
+
+<!-- GitHub stats -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilyaevaLubov&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SilyaevaLubov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Streak stats -->
+[![Streak](https://streak-stats.demolab.com/?user=SilyaevaLubov&theme=radical&border_radius=5)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+</div>
+<!-- Footer -->
+---
+🔭 Actively seeking opportunities for professional growth. Open to offers!
+
+📩 Feel free to reach out: [glaglu60v@gmail.com](mailto:glaglu60v@gmail.com)
