@@ -13,20 +13,10 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-- **Databases:** PostgreSQL, SQL
-- **Programming Languages:** Python (pandas, matplotlib, seaborn)
-- **Analysis Tools:** Jupyter Notebook, Google Sheets
-- **BI Systems:** DataLens
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%230F9D58?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![DataLens](https://img.shields.io/badge/Yandex%20DataLens-%23FF6600?style=for-the-badge&logo=data-lens&logoColor=white)
 
-
 <!-- About me -->
-## About Me
+## About Me :bust_in_silhouette:
 
 I’m a data analyst with a background in software development. I started my career as a C++ developer, which gave me a solid foundation in programming. Over time, I developed a strong interest in fields where work results are visually represented — this led me to explore data dashboard creation and data analysis.
 
@@ -38,7 +28,7 @@ After completing the **“Data Analyst” program at Yandex Practicum**, I comb
 - uncover insights from large datasets.
 
 <!-- What I'm looking for -->
-## What I’m Looking For 
+## What I’m Looking For :computer:
 
 I’m seeking a remote position at a company where I can:
 
