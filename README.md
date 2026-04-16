@@ -1,7 +1,7 @@
 <!-- Header and greeting -->
-# Hi there! I’m Lubov Silyaeva.
+# Hi there! I’m Lubov Silyaeva. 👋
 
-👋 Data Analyst specializing in SQL and Python, with experience in BI systems. Currently actively seeking remote opportunities.
+Data Analyst specializing in SQL and Python, with experience in BI systems. Currently actively seeking remote opportunities.
 
 <!-- Social badges -->
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/gladlu60v)
