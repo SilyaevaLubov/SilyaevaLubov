@@ -19,11 +19,7 @@
 - **BI Systems:** DataLens
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%234E33?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-%23150434?style=for-the-badge&logo=pandas&logoColor=white)
-![matplotlib](https://img.shields.io/badge/matplotlib-%23FF6600?style=for-the-badge&logo=matplotlib&logoColor=white)
-![seaborn](https://img.shields.io/badge/seaborn-%233776AB?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%230F9D58?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![DataLens](https://img.shields.io/badge/Yandex%20DataLens-%23FF6600?style=for-the-badge&logo=data-lens&logoColor=white)
