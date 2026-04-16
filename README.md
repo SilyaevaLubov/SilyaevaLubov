@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:glaglu60v@gmail.com)
 
 <!-- Tech stack -->
-## My Tech Stack
+## My Tech Stack :bar_chart:
 
 - **Databases:** PostgreSQL, SQL
 - **Programming Languages:** Python (pandas, matplotlib, seaborn)
@@ -36,18 +36,6 @@ I’m seeking a remote position at a company where I can:
 - work with real‑world data and solve practical business problems;
 - contribute to creating informative dashboards for data‑driven decision‑making.
 
-<!-- Stats and badges -->
-<div align="center">
-
-<!-- GitHub stats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilyaevaLubov&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SilyaevaLubov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Streak stats -->
-[![Streak](https://streak-stats.demolab.com/?user=SilyaevaLubov&theme=radical&border_radius=5)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-</div>
 <!-- Footer -->
 ---
 🔭 Actively seeking opportunities for professional growth. Open to offers!
