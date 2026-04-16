@@ -5,7 +5,7 @@
 
 <!-- Social badges -->
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/gladlu60v)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:glaglu60v@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gladlu60v@gmail.com)
 
 <!-- Tech stack -->
 ## My Tech Stack :bar_chart:
@@ -40,4 +40,4 @@ I’m seeking a remote position at a company where I can:
 ---
 🔭 Actively seeking opportunities for professional growth. Open to offers!
 
-📩 Feel free to reach out: [glaglu60v@gmail.com](mailto:glaglu60v@gmail.com)
+📩 Feel free to reach out: [gladlu60v@gmail.com](mailto:gladlu60v@gmail.com)
